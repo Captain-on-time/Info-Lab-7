@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+
+<Wednesday>
+
+<!--Открываем каталог под тегом Wednesday -->
+
+<lecture>
+
+<time> 10:00-11:30 </time>
+
+<!--Открываем каталог под тегом time и записываем контент -->
+
+<corpus> ул.Ломоносова, д.9, лит.Е </corpus>
+
+<name> ИНОСТРАННЫЙ ЯЗЫК (ПРАК) </name>
+
+<class> </class>
+
+<teacher> </teacher>
+
+</lecture>
+
+<lecture>
+
+<time> 11:40-13:10 </time>
+
+<corpus> ул.Ломоносова, д.9, лит.Е </corpus>
+
+<name> ДИСКРЕТНАЯ МАТЕМАТИКА (ПРАК) </name>
+
+<class> 3314 </class>
+
+<teacher> Проститенко Олег Владимирович </teacher>
+
+</lecture>
+
+<lecture>
+
+<time> 13:30-15:00 </time>
+
+<corpus> ул.Ломоносова, д.9, лит.Е </corpus>
+
+<name> ДИСКРЕТНАЯ МАТЕМАТИКА (ПРАК) </name>
+
+<class> 3314 </class>
+
+<teacher> Проститенко Олег Владимирович </teacher>
+
+</lecture>
+
+</Wednesday>
+
+<!--Закрываем каталог под тегом Wednesday -->
